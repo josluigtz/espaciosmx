@@ -1,0 +1,6 @@
+Administrar privilegios de usuario
+Usuario: zamopad0_luna2018
+
+Base de datos: zamopad0_luna2018
+
+lun42018@

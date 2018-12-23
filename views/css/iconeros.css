@@ -1,0 +1,32 @@
+/*=============================================
+ICONEROS            
+=============================================*/
+
+#iconeros-gl{
+ position:absolute;
+    bottom:0px;
+    width: 100%;   
+}
+
+#iconeros-in{
+	
+    margin: 0px !important;
+    padding: 0px !important;
+    display:flex; 
+    background: #830000;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    height: 35px;  
+    
+}
+
+#iconeros-in .iconeritos{
+    
+    flex: 1 1 0px;
+    
+}
+
+/*=====  Fin de ICONEROS  ======*/
