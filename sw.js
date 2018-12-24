@@ -7,6 +7,8 @@ const INMUTABLE_CACHE = 'inmutable-v1';
 
 const APP_SHELL = [
   //  '/',
+    'index.html',
+    'css/bootstrap.css',
     'php.ini',
     'favicon.ico',
     'index.php',
