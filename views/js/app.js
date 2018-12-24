@@ -6,7 +6,7 @@
 
 
   var url = window.location.href;
-  var swLocation = 'espaciosmx/sw.js';
+  var swLocation = '/sw.js';
   
   var swReg;
   
