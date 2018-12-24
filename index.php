@@ -15,3 +15,4 @@ require_once "controllers/gestorMensajes.php";
 
 $template = new TemplateController();
 $template -> template();
+?>
