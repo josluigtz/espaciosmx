@@ -14,6 +14,7 @@ const APP_SHELL = [
  //   '/',
     'index.html',
     'views/css/bootstrap.css',
+    'images/icono.png',
     'php.ini',
     'favicon.png',
     'contenido.php',
