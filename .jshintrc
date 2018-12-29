@@ -78,6 +78,11 @@
         "$"        : true,
         "clients"  : true,
         "importScripts" : true,
-        "verificaSuscripcion" : true
+        "verificaSuscripcion" : true,
+        "manejoApiMensajes" : true,
+        "actualizaCacheStatico" : true,
+        "actualizaCacheDinamico" : true,
+        "postearMensajes" : true,
+        "PouchDB" : true
     }
 }
