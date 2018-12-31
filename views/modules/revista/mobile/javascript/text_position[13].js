@@ -1,1 +1,0 @@
-﻿positionForPages[13]={page:13,positions:[{word:"Catálogo  enrevista.com",left:0.024480,top:0.892319,width:0.974965,height:0.079003},{word:"|",left:0.393307,top:0.886871,width:0.092810,height:0.086171}]};

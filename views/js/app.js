@@ -8,7 +8,7 @@
     "use strict";
   
     var url = window.location.href;
-    var swLocation = '/espaciosmx/sw.js';
+    var swLocation = 'espaciosmx/sw.js';
     
     var swReg;
     

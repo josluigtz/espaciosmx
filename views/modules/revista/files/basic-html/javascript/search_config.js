@@ -1,1 +1,0 @@
-﻿var textForPages = ["https://tikan.com.mx/","","","","","","","","","","","","Catálogo | enrevista.com"];
